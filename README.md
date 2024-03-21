@@ -1,0 +1,3 @@
+# EJERCICIO DE EL CURSO DE FRONTEND PRACTICO DE PLATZI
+
+> Esta aun en desarrollo!!
